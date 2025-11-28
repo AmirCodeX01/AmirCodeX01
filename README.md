@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bgGithub.jpg" alt="background github" width="100%">
+  <img src="./bgGithub.jpg" alt="background github" width="100%" height="400px">
 </div>
 
 <div align="center">
