@@ -13,5 +13,5 @@
 
 <h2>My Socials</h2>
 <div>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://www.instagram.com/amirfotuhi01/"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
