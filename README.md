@@ -1,3 +1,17 @@
 <div align="center">
   <img src="./bgGithub.jpg" alt="background github" width="100%">
 </div>
+
+<div align="center">
+<h1>Hi i am Amir Fotuhi <br> A frontend Developer , Programming and Designer</h1>
+</div>
+
+<h2>My Expertise</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,scss,tailwindcss,react,mui,ts,py,git,wordpress,ai">
+</div>
+
+<h2>My Socials</h2>
+<div>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</div>
