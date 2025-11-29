@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Hi i am Amir Fotuhi <br> A Frontend Developer , Programming and Designer</h1>
+<h1>Hi i am Amir Fotuhi <br> A Frontend Developer , Programmer and Designer</h1>
 </div>
 
 <h2>My Expertise</h2>
