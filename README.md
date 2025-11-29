@@ -8,7 +8,8 @@
 
 <h2>My Expertise</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,scss,tailwindcss,react,mui,ts,py,git,wordpress,ai">
+  <img src="https://skillicons.dev/icons?i=html,css,js,scss,tailwindcss,git"><br>
+  <img src="https://skillicons.dev/icons?i=py,react,mui,ts,wordpress,ai">
 </div>
 
 <h2>My Socials</h2>
